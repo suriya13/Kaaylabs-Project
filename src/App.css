@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+th{
+text-align: center;
+}
+ul{
+  list-style-type: none;
+}
+td{
+
+  vertical-align: middle;
+  text-align: center;
+}
+.spinner
+{
+ display: flex;
+ justify-content: center;
+ margin-top: 25%;
+}
+.pagination
+{
+  display: flex;
+  justify-content: center;
+}
